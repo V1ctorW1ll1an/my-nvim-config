@@ -24,6 +24,7 @@
 # Keys
 
 ```text
+ctrl + - => Open float terminal
 <leader>e => open explorer
 <leader>, => switch buffer
 <leader>- => split window below
