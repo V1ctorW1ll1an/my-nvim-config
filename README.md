@@ -1,12 +1,25 @@
 # Requirements
 
-> Neovim >= 0.9.0 (needs to be built with LuaJIT)
-> Git >= 2.19.0 (for partial clones support)
-> a Nerd Font(v3.0 or greater) (optional, but needed to display some icons)
-> lazygit (optional)
-> a C compiler for nvim-treesitter
-> live grep: ripgrep
-> find files: fd
+- Neovim >= 0.9.0 (needs to be built with LuaJIT)  
+  [Neovim GitHub](https://github.com/neovim/neovim)
+
+- Git >= 2.19.0 (for partial clones support)  
+  [Git Official Website](https://git-scm.com/)
+
+- Nerd Font(v3.0 or greater) (optional, but needed to display some icons)  
+  [Nerd Fonts GitHub](https://github.com/ryanoasis/nerd-fonts)
+
+- lazygit (optional)  
+  [Lazygit GitHub](https://github.com/jesseduffield/lazygit)
+
+- a C compiler for nvim-treesitter  
+  [nvim-treesitter GitHub](https://github.com/nvim-treesitter/nvim-treesitter)
+
+- live grep: ripgrep  
+  [ripgrep GitHub](https://github.com/BurntSushi/ripgrep)
+
+- find files: fd  
+  [fd GitHub](https://github.com/sharkdp/fd)
 
 # Keys
 
